@@ -1,5 +1,7 @@
 # Natours Application
 
+Here is the [deployed version of the application.](https://natours.dev/) 🚀
+
 Natours is a full-stack travel site web application built by applying concepts from [Jonas Schmedtmann’s web development course](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp). Built with **Node.js, Express, MongoDB, and Mongoose**, it features secure authentication, user management, a RESTful API with filtering and pagination, and server-side rendering with Pug. 
 
 Key features include:
@@ -9,5 +11,3 @@ Key features include:
 * Geospatial queries & advanced API features
 * Email notifications & file uploads
 * Modern back-end development
-
-Here is the [deployed version of the application.](https://natours.dev/) 🚀
